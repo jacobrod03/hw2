@@ -8,5 +8,5 @@ include "view-header.php";
       <input type= "submit" value = "Post data">
     </form>
 <?php
-include "view-footer.php"
+include "view-footer.php";
 ?>

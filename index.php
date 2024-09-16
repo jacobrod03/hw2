@@ -31,7 +31,6 @@
         <li class="nav-item">
           <a class="nav-link" href="get-result.php">Get result</a>
         </li>
-        </li>
       </ul>
     </div>
   </div>

@@ -14,5 +14,5 @@ if (isset($_POST['my-name'])) {
   <p>Nothing posted to the page.</p>
 <?php
 }
-include "view-footer.php"
+include "view-footer.php";
 ?>
